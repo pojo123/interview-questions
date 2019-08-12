@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="187" started-at="2019-08-03T05:30:09Z" finished-at="2019-08-03T05:30:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="187" started-at="2019-08-03T05:30:09Z" finished-at="2019-08-03T05:30:09Z">
+      <class name="com.clc.testng.DataProviderTest">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.clc.testng.DataProviderTest@1593948d]" name="test" duration-ms="31" started-at="2019-08-03T05:30:09Z" data-provider="testData" finished-at="2019-08-03T05:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.clc.testng.DataProviderTest@1593948d]" name="test" duration-ms="15" started-at="2019-08-03T05:30:09Z" data-provider="testData" finished-at="2019-08-03T05:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test1(int, int, int)[pri:0, instance:com.clc.testng.DataProviderTest@1593948d]" name="test1" duration-ms="16" started-at="2019-08-03T05:30:09Z" data-provider="testData1" finished-at="2019-08-03T05:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(int, int, int)[pri:0, instance:com.clc.testng.DataProviderTest@1593948d]" name="test1" duration-ms="15" started-at="2019-08-03T05:30:09Z" data-provider="testData1" finished-at="2019-08-03T05:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(int, int, int)[pri:0, instance:com.clc.testng.DataProviderTest@1593948d]" name="test1" duration-ms="16" started-at="2019-08-03T05:30:09Z" data-provider="testData1" finished-at="2019-08-03T05:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.clc.testng.DataProviderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
